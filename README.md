@@ -27,7 +27,7 @@ To set up your local development environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StaffSmart.git
+   git clone https://github.com/emolindar/Hackathon2024.git
 Navigate to the project directory:
 
 bash
