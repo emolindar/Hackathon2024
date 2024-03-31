@@ -1,0 +1,4 @@
+Session Management: The browser should automatically handle session cookies. Ensure that credentials: 'include' is set for requests to maintain the session.
+Error Handling: Provide user feedback on the UI for both success and failure scenarios.
+HTTPS: Use HTTPS in production to protect sensitive information.
+CORS: If our frontend and backend are served from different domains, ensure that CORS is properly configured to allow requests from your frontend's domain.
