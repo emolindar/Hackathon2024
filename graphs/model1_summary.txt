@@ -1,0 +1,10 @@
+Coefficients:
+Intercept            0.002755
+ID                   0.018771
+NumberOfEmployees    0.014294
+Satisfaction         0.028590
+Profits              0.437083
+Expenses             0.071470
+dtype: float64
+
+Mean Absolute Error (MAE): 1.5190736146200265

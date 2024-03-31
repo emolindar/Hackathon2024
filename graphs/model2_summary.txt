@@ -1,0 +1,8 @@
+Coefficients:
+Intercept            0.028640
+NumberOfEmployees    0.124169
+Satisfaction        -0.142048
+NumberOfCustomers    2.223902
+dtype: float64
+
+Mean Absolute Error (MAE): 2.7389465315639896
