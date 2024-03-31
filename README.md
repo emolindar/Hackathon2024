@@ -3,6 +3,10 @@
 
 StaffSmart is a predictive analytics platform designed to empower businesses in the service industry, like restaurants, by providing insightful visualizations and forecasts. By leveraging customer service data, StaffSmart enables businesses to make data-driven decisions, improve customer experience, and optimize operational efficiency.
 
+Used: 
+   - Python, .Net, R, C#, HTML, mySQL, Azure, MySQL Workbench, MySQL8.3, Hell Energy Drink, Monster Energy, Special Thanks to The Hub AUBG
+
+
 ## Features
 
 - User authentication with secure password hashing and session management.
